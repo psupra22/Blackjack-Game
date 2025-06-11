@@ -12,7 +12,7 @@ A simple terminal-based Blackjack game in Python where players compete against a
 1. Clone this repository:  
    ```sh
    git clone https://github.com/psupra22/Blackjack-Game
-   cd blackjack-game
+   cd Blackjack-Game
    ```
 
 ## Usage  
